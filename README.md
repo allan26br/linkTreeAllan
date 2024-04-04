@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img alt="Projeto" src=".github/cover.png" width="100%">
+  <img alt="Projeto" src=".github/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
